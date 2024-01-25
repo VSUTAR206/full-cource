@@ -1,0 +1,8 @@
+2.What is Dom 
+
+1.Browser Takes HTML and Create   Dom.
+
+2.Javascript Helps us modify DOM  based on user actions or events
+
+3.In big Applications , Wokrking   with DOm becomes Complicated.
+
