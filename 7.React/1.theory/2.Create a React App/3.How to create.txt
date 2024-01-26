@@ -1,0 +1,9 @@
+1.official tool is CRA (Creat react app)
+
+2.vite is moderm tool to create react project.
+
+3.vite produces quick and small bundle size .
+
+4.vite use np, run dev to launch dev server 
+
+5. use npm start for CRA 

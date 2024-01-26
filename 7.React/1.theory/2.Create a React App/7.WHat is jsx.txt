@@ -1,0 +1,9 @@
+what is jsx:
+
+1.jsx determines how the ui will look wherever componenet is used 
+
+2.NOt html: through it resembles html, your actually writing jsx, which stands for javascript xml'
+
+3.Coversion : jsx get converted to regular javascript
+
+4. babeljs.io/repl is atool that allows you to see how jsx is transformed into javascript -

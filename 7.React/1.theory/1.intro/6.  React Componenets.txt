@@ -1,0 +1,10 @@
+1. componenet never refresh 
+2. we can render same components mutiple times.
+
+
+
+*intro of componenets 
+
+
+1.React application is a tree of components with app.
+2.component as the root bringing everithing togather .

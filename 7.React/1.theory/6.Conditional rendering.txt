@@ -1,0 +1,19 @@
+1.conditional rendering :
+
+Displaing content based on certain conditions.
+
+Allows for dynamic user interface.
+
+2.Methods:
+
+*if-else statement:Choose betweeen two  blocks of contenet.
+
+*Ternary operaters : Quick way to choose betwwn two options.
+
+*Logical operators : Useful for rendering content When condition is true.(Truty and falsy)
+
+3.Benifits : 
+
+*Enhances user expiriennce.
+*reduces unnessary rendering.
+*Makes apps more interactive and responsive.

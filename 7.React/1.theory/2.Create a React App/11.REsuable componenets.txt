@@ -1,0 +1,8 @@
+1. modularity: Componenets are modulat allowingng for easy reuse across different                parts of an application.
+
+2. Consistancy : Reusing components ensures ui CONSISTANCY AND REDUCES THE CHANCE                  OF DISCREPANCIES.
+
+3. EFFICIENCY : REDUCES DEVELOPMEMNT TIME AND EFFORTS VY AVOIDIDNG DUPLICATION OF                 CODE .
+	
+
+4. Maintainablity : changes made to a reued componenets reflect everywhere it's                     used , simplifyingng updates and bug fixes.

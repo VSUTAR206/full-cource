@@ -1,0 +1,9 @@
+1.Problems with javascript.
+
+1.React has a simpler mental model.
+
+2.javascript is cumbersome.
+
+3.Javadcript is Error-prone
+
+4.javadcript is hard to maintain 

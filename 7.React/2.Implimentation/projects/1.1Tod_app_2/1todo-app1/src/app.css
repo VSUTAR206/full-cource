@@ -1,0 +1,43 @@
+.todo-container{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.col-12{
+    text-align: center;
+    margin: 10px auto;
+}
+
+.row{
+    margin: 10px auto;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.col-3{
+    margin: 5px 20px;
+    padding: 10px;
+}
+
+input{
+    width: 100%;
+    padding: 5px 10px;
+    border-radius: 20px;
+}
+
+.iteam{
+    font-family: cursive;
+    font-weight: 500;
+}
+
+.btn-danger{
+    min-width: 100px;
+    padding: 10px 15px;
+}
+
+.btn-success{
+    min-width: 100px;
+ padding: 10px 25px;
+}

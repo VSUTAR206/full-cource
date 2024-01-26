@@ -1,0 +1,9 @@
+Map()
+map method  
+
+1.Purpose           : Render lists from array data.
+2.jsx Elements      : transfer array iteams into jsk.
+3.inline Rendering  : directive inside JSX
+                                                                             {items.map(item=> <li key={item.id}>{iteam.name}</li>)}
+4.key prop: assign unique key for optimized re-renders.
+<div key = {iteam.id}>{iteam.name}</div>

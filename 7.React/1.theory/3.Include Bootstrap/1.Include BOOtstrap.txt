@@ -1,0 +1,20 @@
+1.Responsive : mobile-first design for all device size.
+
+2.Components : pre-styled elements like buttons and navbars. 
+
+3.Customizable : modify Defaltstyle as needed.
+
+4.Cross-browser: Comsistent look across browsers.
+
+5.open-source:free with comunity support 0
+
+
+
+*commands imp
+ 
+*to install
+1.npm i bootstrap@5.3.2
+
+*import 
+1.import "bootstrap/dist/css/bootstrap.min.css";
+ 

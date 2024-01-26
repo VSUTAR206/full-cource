@@ -1,0 +1,6 @@
+1. Naming : must be capitalized;
+lover for default HTML.
+
+2.HTML:unlike vanilla js where you can't directly write html in react you can  embed HTML-like syntax using jsx 
+
+3.css : in react css can be directly imported into componenets files allowing for modular componenets -specific styling.

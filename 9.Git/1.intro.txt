@@ -1,0 +1,17 @@
+1.version control system 
+
+2 types
+
+
+1.centralized 
+2.distributed
+
+
+
+
+1.git is free
+
+2.open force
+
+3.Super fast
+

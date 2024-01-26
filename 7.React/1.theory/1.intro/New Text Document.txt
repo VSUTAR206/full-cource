@@ -1,0 +1,11 @@
+1.what is React 
+
+1.javascript liberary to build dynamic and     interactive user interface .
+
+2.Developed at facebook in 2011.
+
+3.Currently most widely used JS
+  Liberary for Front-End development.
+
+4.Used to create single page Applications  (SPA).
+

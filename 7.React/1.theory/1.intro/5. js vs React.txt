@@ -1,0 +1,5 @@
+1.javascript is imperative :
+  you define steps to reach your desire   state.
+
+2.React is Declarative : 
+  you define the target UI   state and then    react figure out how to reach that state .

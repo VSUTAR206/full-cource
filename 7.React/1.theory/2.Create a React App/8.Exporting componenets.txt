@@ -1,0 +1,7 @@
+1.enables the use of componenet in other parts
+
+2.default export: allows exporting a single component as the default from a module.
+
+3. named export : allows exporting multiple iteams from a module
+
+4. importingng : to use an exported componenet, you need to import it in the destination file using import syntax .

@@ -1,0 +1,2 @@
+1.dynamic componenets : 
+   jsx allows us the creation of dynamaic and    interactive UI componenets 

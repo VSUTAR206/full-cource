@@ -1,0 +1,10 @@
+* react shortcuts: -
+
+1.create new project         :  npm create vite@latest
+2.INstall node pakege moduals:  npm install
+3.live react app             :  npm run dev
+
+*Bootstrap shortcuts :-
+
+1.install bootstrap in project     :  npm i bootstrap@5.3.2  
+2.import bootstrap inside main.jsx :  import "bootstrap/std/css/bootstrap.min.css" 

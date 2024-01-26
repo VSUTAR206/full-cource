@@ -1,0 +1,13 @@
+1.class componenets 
+
+stateful: can manage state
+lifecycle : access to lifecycle methods
+verbose : more boiler plate code
+Not preferred any more
+
+2.Functional componenets
+
+initially stateless
+can use hooks for state and effects 
+similer and more concise
+more popular

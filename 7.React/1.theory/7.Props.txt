@@ -1,0 +1,18 @@
+1.props in react 
+*short for properties.
+*Mechanism for passing data.
+*Read-only by default.
+
+2.Usage.
+*Pass data from parent to child componenet.
+*Makes componenet reusable.
+*Defined as attribute in jsx.
+
+
+3.Key points
+*Data flows one-way (downwords).
+*Props are immutable.
+*Used for communication between componenets.
+
+4.Example
+<Header title="My App /">

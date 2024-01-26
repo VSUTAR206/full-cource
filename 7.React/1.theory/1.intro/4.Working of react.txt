@@ -1,0 +1,8 @@
+
+1. NO need to worry about  Querying and    updating DOM.
+
+2.React creates a web pages with small and   reusable componanats .
+
+3.React will take care of creating and     updating DOM and Elements.
+
+4.It saves a lot of time , cheezein assan   hai , pehle se likhi hui hai.

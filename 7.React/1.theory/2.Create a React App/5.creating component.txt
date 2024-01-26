@@ -1,0 +1,14 @@
+*create React compononent 
+
+1.file eXTENTIONS 
+
+- .JS 
+1.stands for javascript
+2.contains regular js code
+3.used for gereanl logic and components
+
+
+-jsx 
+1. stands for javascript xml . 
+2. Combines js with html-like tags .
+3. makes easeier to design UL componenets

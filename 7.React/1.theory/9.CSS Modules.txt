@@ -1,0 +1,13 @@
+*CSS Modules 
+
+1.localized class names to avoid global conslicts
+
+2.style are scoped to individual-specific styles.
+
+3.helps in creating componenets-specific styles.
+
+4.Automatically Generates unique class names.
+
+5.Promotes Modular and maintainable CSS.
+
+6.Can use alongside Global CSS when neede.

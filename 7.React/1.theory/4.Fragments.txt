@@ -1,0 +1,13 @@
+*Fragment
+
+1.what ?
+-allows grouping of multiple elements without extra DOM nodes.
+
+2.Why?
+-retun multiple elements without a wrapping parent .
+
+3.How?
+-two syntaxes:
+1.<React.fragment>....<React.fragment>
+
+2.short<>...<>
